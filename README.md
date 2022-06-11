@@ -1,5 +1,5 @@
 # PortfolioProject
-This portfolio contains all of the projects that I created. There are four unique projects in here. 
+This portfolio contains all of the projects that I created. There are three unique projects in here. 
 
 ### 1. Covid-19 SQL Data Exploration
 In this project, I used SQL to do some data exploration on Covid-19. This data was recorded on May 15, 2022. 
